@@ -1,0 +1,6 @@
+/parcel*
+/.parcel*
+/dist
+config.txt
+node_modules
+package-lock.json
